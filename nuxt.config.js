@@ -1,4 +1,8 @@
 export default {
+  server: {
+    port: 5000, // default: 3000
+    host: '209.151.154.205' // default: localhost
+  },
   mode: 'universal',
   /*
    ** Headers of the page
